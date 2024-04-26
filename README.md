@@ -4,10 +4,10 @@ https://github.com/cheaterpeter/lpfinal
 
 Cpp </br>
 gedit filename.exe
-g++ filename.cpp
+g++ filename.cpp </br>
 ./a.out
 
 
 CUDA </br>
-g++ -fopenmp bfs.cpp  -o bfs
+g++ -fopenmp bfs.cpp  -o bfs </br>
 ./bfs
