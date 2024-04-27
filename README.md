@@ -1,4 +1,10 @@
-https://github.com/cheaterpeter/lpfinal
+https://github.com/cheaterpeter/lpfinal </br>
+
+https://drive.google.com/drive/folders/1R7iGrrffvLX9Drdqg5B1_i7k4ONqPSDH </br>
+
+https://drive.google.com/drive/folders/1eXdd1XKrDigyKIG-eZxiqajsePoqibkI?usp=drive_link
+
+
 
 ## Commands
 
